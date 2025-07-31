@@ -94,7 +94,7 @@ const About = () => {
         </div>
         {/* Grid 5 */}
         <div className=" grid-default2-color grid-5">
-          <div className="z-10 w-[50%] mx-4 my-6">
+          <div className="z-10 w-[50%]">
             <p className="headtext" >Tech Stack</p>
             <p className="subtext">Tengo conocimiento en gran variedad de frameworks de javascript, los cuales me permiten crear aplicaciones web robustas, modernas y escalables </p>
           </div>

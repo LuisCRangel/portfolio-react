@@ -21,7 +21,7 @@ export function Frameworks() {
   ];
 
   return (
-    <div className="relative flex h-[15rem] w-full flex-col items-center justify-center overflow-hidden">
+    <div className="relative flex h-[570px] md:h-[15rem] w-full flex-col items-center justify-center overflow-hidden">
       <OrbitingCircles iconSize={40}>
         {skills.map((skill,index) => (
             <Icon key={index} src={`assets/logos/${skill}.svg`}/>
