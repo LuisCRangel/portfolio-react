@@ -11,7 +11,7 @@ const About = () => {
       <h2 className="text-heading">About Me</h2>
       <div className=" grid grid-cols-1 gap-4 md:grid-cols-6 md:auto-rows-[18rem] mt-12">
         {/* Grid 1 */}
-        <div className="flex items-end bg-[url('assets/bg.png')] bg-cover grid-1">
+        <div className="flex items-end grid-default3-color bg-cover grid-1">
           <img
             src="models/p1.png"
             className=" absolute scale-[1] -right-[30%] -top-[4rem] md:scale-[1.5]  md:inset-y-10 lg:scale-[1.3]"

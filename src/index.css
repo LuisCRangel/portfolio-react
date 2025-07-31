@@ -121,6 +121,10 @@ body {
   @apply p-6 bg-gradient-to-b from-cyan-800 to-indigo rounded-2xl;
 }
 
+.grid-default3-color {
+  @apply p-6 bg-gradient-to-b from-[#4d3beb] via-[#86699e] to-indigo rounded-2xl;
+}
+
 .grid-profile-color {
   @apply p-6 bg-gradient-to-b from-purple-600 to-indigo rounded-2xl;
 }
