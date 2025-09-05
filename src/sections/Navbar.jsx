@@ -10,18 +10,18 @@ function Navigation() {
         </a>
       </li>
       <li className="nav-li">
-        <a className="nav-link" href="#About">
+        <a className="nav-link" href="#about">
           About
         </a>
       </li>
       <li className="nav-li">
-        <a className="nav-link" href="#work">
-          Work
+        <a className="nav-link" href="#proyectos">
+          Proyectos
         </a>
       </li>
       <li className="nav-li">
-        <a className="nav-link" href="#contact">
-          Contact
+        <a className="nav-link" href="#contacto">
+          Contacto
         </a>
       </li>
     </ul>
